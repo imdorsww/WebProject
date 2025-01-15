@@ -1,4 +1,20 @@
+توضیحات پروژه
 
+   پروژه در مسیر C:\webproject با استفاده از دستور git init ایجاد شد.
+
+   فایل‌های index.html، style.css و script.js اضافه شده و اولین commit با پیام "avalin commit ba file haye js,css.html" ذخیره شد.
+
+   شاخه‌ای با نام feature/update-title ساخته شد و تغییرات در فایل index.html اعمال و ذخیره شدند. سپس این شاخه به شاخه اصلی master ادغام شد.
+
+   یک conflict در فایل index.html بین دو شاخه ایجاد شد که پس از ویرایش، مشکل حل و تغییرات ذخیره شد.
+
+   تغییر اشتباهی در فایل script.js ذخیره شده بود که با استفاده از دستورgit revert این تغییر به حالت قبلی برگشت داده شد.
+
+   پروژه به مخزن GitHub متصل و فایل‌ها با دستور git push آپلود شدند.
+
+
+
+ git init
 C:\Users\HAMI>cd C:\webproject
 
 C:\webproject>git init
